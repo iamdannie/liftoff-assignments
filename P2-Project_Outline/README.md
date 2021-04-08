@@ -7,9 +7,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-DG
+Include overview here
 ### Features
-Include Features here
+Include COOL...FEATURES here
 ### Technologies
 Include Technologies here
 ### What I'll Have to Learn
